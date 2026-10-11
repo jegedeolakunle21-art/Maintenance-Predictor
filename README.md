@@ -101,7 +101,7 @@ Model predictions depend on data quality, representative training data, and appr
 
 ## Author
 
-Mechanical Engineering | Machinery Maintenance | Machine Learning | Predictive Analytics
+Mechanical Engineering | Machinery Maintenance | Energy Systems | Data Analytics & Data Governance |Machine Learning | Predictive Analytics
 
 This project explores the application of artificial intelligence to industrial equipment reliability and intelligent maintenance planning.
 
