@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project applies machine learning to industrial predictive maintenance, with the goal of identifying early warning signs of equipment degradation and supporting data-driven maintenance planning. It is designed for industrial equipment such as centrifugal pumps, compressors, and gas turbines.
+This project applies machine learning to industrial predictive maintenance, with the goal of identifying early warning signs of equipment degradation and supporting data-driven maintenance planning. It is designed for industrial equipment such as centrifugal pumps and gas turbines.
 
 The model uses equipment operating conditions, temperature, pressure, vibration, lubrication indicators, maintenance history, and equipment health indicators to support predictive maintenance analysis.
 
@@ -53,7 +53,7 @@ The saved feature list also contains target-related fields such as `failure_next
 
 ## Model Artifacts
 
-The repository includes or is intended to include the following artifacts:
+The repository includes the following artifacts:
 
 - `machinery_predictive_maintenance_model.pkl` — serialized machine learning model.
 - `machinery_model_features.pkl` — saved list of model feature names and their expected order.
